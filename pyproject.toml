@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "advent2024"
+version = "0.1.0"
+description = "Environemnt for advent of code 2024 adventofcode.com/2024"
+authors = ["patricknormile <patnormil@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+python-dotenv = "^1.0.1"
+requests = "^2.32.3"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
