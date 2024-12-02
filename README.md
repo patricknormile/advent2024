@@ -1,5 +1,5 @@
 # Advent2024
-Solutions to advent of code 2024 by @patricknormile
+Solutions to advent of code 2024 by [@patricknormile](https://github.com/patricknormile/)
 
 ## Environment
 The dependencies are managed with poetry. To use the same packages, install poetry with `pip install poetry`.
