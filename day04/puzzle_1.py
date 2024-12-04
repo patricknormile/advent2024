@@ -21,7 +21,6 @@ def search_generic(i, j, text_array, updown, leftright):
     """
     match = False
     try:
-        
         candidates = (
             text_array[i][j],
             text_array[i+updown][j+leftright],
